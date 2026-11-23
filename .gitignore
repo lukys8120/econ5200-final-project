@@ -1,0 +1,25 @@
+# ECON 5200 — Final consulting project
+
+# Raw data: commit only if the licence permits (say which in the README)
+data/*.csv
+data/*.dta
+data/*.parquet
+
+# Course examples and starters, kept for reference only
+reference/
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS and tooling
+.DS_Store
+.claude/
