@@ -23,3 +23,6 @@ __pycache__/
 # macOS and tooling
 .DS_Store
 .claude/
+
+# Downloads not used in the analysis
+data/unused/
